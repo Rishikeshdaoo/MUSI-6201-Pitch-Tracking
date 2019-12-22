@@ -1,4 +1,6 @@
-# MUSI-6201-Assignment_1
+# MUSI-6201-Assignment-1
+
+Pitch Tracking assignment for MUSI-6201: Computation Audio Analysis
 
 ## Discussions
 ### B.1.4
